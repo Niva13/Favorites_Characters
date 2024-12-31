@@ -8,7 +8,7 @@ public class MyData {
             "I Am The Lion King and the father of Simba.",
             "I'm a warthog who doesn't worry about anything in life, and Timon's best friend.",
             "I'm a crazy monkey helping Simba find the king inside of him.",
-            "I am Simba's girlfriend one day we will get married.",
+            "I am Simb's girlfriend one day we will get married.",
             "I Am The Lion queen and the mother of Simba.",
             "I am Simba's evil uncle and I want the kingdom for myself.",
             "I am a striped hyena and serve Scar.",
